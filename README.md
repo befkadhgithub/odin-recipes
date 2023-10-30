@@ -1,1 +1,1 @@
-# odin-recipes
+This is a starters project from the The Odin Project and is for educational purposes.
