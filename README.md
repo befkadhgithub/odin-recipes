@@ -1,1 +1,1 @@
-This is a starters project from the The Odin Project and is for educational purposes.
+This is a starters project from the The Odin Project and is for educational purposes. I guess we'll be creating some "Recipe website". Edited the readme file.
